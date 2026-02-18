@@ -1,14 +1,8 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.deb
-*.zip
-*.tgz
-*.log
-*.log.*
-*.sig
+__pycache__/
+*.pyc
+*.h5
+*.pkl
+*.csv
+.env
+.ipynb_checkpoints/
 
-pkg/
-src/
